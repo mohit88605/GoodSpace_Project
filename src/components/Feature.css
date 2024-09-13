@@ -1,0 +1,16 @@
+.feature{
+    width: Fill (1,366px)px;
+    height: Hug (683px)px;
+    padding: 80px 0px 0px 0px;
+    gap: 80px;
+    opacity: 0px;
+}
+.feature h2{
+    font-family: Extatica;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40.96px;
+    background: linear-gradient(93.69deg, #2D56EC -14.13%, #1AACEA 120.91%);
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
