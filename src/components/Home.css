@@ -112,3 +112,18 @@ hr{
     height: 1px;
     color: grey;
 }
+@media (max-width:1000px) {
+    .first-content , .input{
+        display: flex;
+        flex-direction: column;
+        width: Fill (312px)px;
+        height: Hug (417px)px;
+        gap: 32px;
+    }
+    .input{
+        margin-top: 100px;
+    }
+    .para-content{
+        font-size: 10px;
+    }
+}

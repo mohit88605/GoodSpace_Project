@@ -31,6 +31,7 @@ const Footer = () => {
                 </div>
             </div>
         </div>
+        <hr></hr>
         <div className='copyright'>
             <div className='navbar-content footer-content'>
                 <a href=''>Blogs</a>

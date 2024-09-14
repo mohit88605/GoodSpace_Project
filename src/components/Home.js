@@ -7,7 +7,7 @@ const Home = () => {
     <div className=''>
         <hr></hr>
         <div className='first-content'>
-            <p>The World's Most Configurable</p>
+            <p><b>The World's Most Configurable</b></p>
             <h1>Travel & Expenses Managemnet Software</h1>
             <div className='para'>
              <p className='para-content'>Configure <span><a>any</a></span> rule. Enable a world class mobile experience for your users. 

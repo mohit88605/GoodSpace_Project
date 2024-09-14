@@ -1,20 +1,19 @@
+
 .navbar{
  margin: 10px 150px;
  display: flex;
  justify-content: space-between
 }
-
 .navbar-content{
-    width: Hug (411px)px;
+    width: Hug (911px)px;
     height: Hug (44px)px;
     gap: 0px;
-    opacity: 0px;
+    margin-left: 500px;
     
 }
 .navbar-content a{
     list-style: none;
     text-decoration: none;
-    /* color: background var(--500, #64748B); */
     font-size: 16px;
     padding: 10px;
     width: Hug (131px)px;
@@ -41,4 +40,16 @@
     transform : scale(1.1);
     cursor: pointer;
     transition: all 0.2s
+}
+.hidden{
+    visibility: hidden;
+}
+@media ( max-width : 1120px)
+{
+    .navbar-content{
+        visibility: hidden;
+    }
+    .hidden{
+        visibility: visible;
+    }
 }

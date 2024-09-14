@@ -1,6 +1,15 @@
 import React from 'react'
 import './Feature.css'
 import logo3 from '../images/logo3.png'
+import logo4 from '../images/logo4.png'
+import logo5 from '../images/logo5.png'
+import logo6 from '../images/logo6.png'
+import logo7 from '../images/logo7.png'
+import logo8 from '../images/logo8.png'
+import logo9 from '../images/logo9.png'
+import logo10 from '../images/logo10.png'
+import logo11 from '../images/logo11.png'
+
 
 const Feature = () => {
   return (
@@ -10,6 +19,7 @@ const Feature = () => {
         </div>
         <div className='box'>
           <div className='feature-box'>
+            <div className='rectangle'></div>
             <div>
               <img src={logo3} alt=''/>
             </div>
@@ -21,8 +31,9 @@ const Feature = () => {
           </div>
 
           <div className='feature-box'>
+           <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=''/>
+              <img src={logo4} alt=''/>
             </div>
             <div>
               <h3>The Definitive Rule Engine</h3>
@@ -32,8 +43,9 @@ const Feature = () => {
           </div>
           
           <div className='feature-box'>
+           <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=''/>
+              <img src={logo5} alt=''/>
             </div>
             <div>
               <h3>Customized Reports</h3>
@@ -42,8 +54,9 @@ const Feature = () => {
           </div>
 
           <div className='feature-box'>
+           <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=''/>
+              <img src={logo6} alt=''/>
             </div>
             <div>
               <h3>Superior Employee Experience</h3>
@@ -53,8 +66,9 @@ const Feature = () => {
           </div>
 
           <div className='feature-box'>
+           <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=' '/>
+              <img src={logo7} alt=' '/>
             </div>
             <div>
               <h3>Easy Integrations</h3>
@@ -64,8 +78,9 @@ const Feature = () => {
           </div>
 
           <div className='feature-box'>
+            <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=''/>
+              <img src={logo8} alt=''/>
             </div>
             <div>
               <h3>Configurable Workflows</h3>
@@ -74,8 +89,9 @@ const Feature = () => {
           </div>
 
           <div className='feature-box'>
+           <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=''/>
+              <img src={logo9} alt=''/>
             </div>
             <div>
               <h3>Scan any Bill</h3>
@@ -84,8 +100,9 @@ const Feature = () => {
           </div>
 
           <div className='feature-box'>
+           <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=''/>
+              <img src={logo10} alt=''/>
             </div>
             <div>
               <h3>AI-Based Concierge</h3>
@@ -95,8 +112,9 @@ const Feature = () => {
           </div>
 
           <div className='feature-box'>
+           <div className='rectangle'></div>
             <div>
-              <img src={logo3} alt=''/>
+              <img src={logo11} alt=''/>
             </div>
             <div>
               <h3>AI-Assisted Trip Planning</h3>
