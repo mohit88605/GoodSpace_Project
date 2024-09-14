@@ -31,14 +31,14 @@
 }
 .feature-box{
     height: 96px;
-    width: 320px;
+    width: 365px;
     margin: auto;
     display: flex;
     flex-direction: row;
 }
 .feature-box img{
     margin-top: 15px;
-    margin-right: -20px;
+    margin-right: -25px;
 }
 .feature-box h3{
     font-family: Inter;

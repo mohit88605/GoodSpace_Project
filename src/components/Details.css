@@ -1,0 +1,16 @@
+.details-main{
+    width: Fill (1,366px)px;
+    height: Hug (263px)px;
+    padding: 48px 0px 48px 0px;
+    gap: 10px;
+    background: rgba(26, 172, 234, 0.1);
+}
+.details-main h1{
+    font-family: Extatica;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 51.2px;
+    background: linear-gradient(90.37deg, #2D56EC 0.3%, #2480EB 54.66%, #1AACEA 112.39%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

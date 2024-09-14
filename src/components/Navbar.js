@@ -14,7 +14,7 @@ const Navbar = () => {
                 <a href='#'>Features</a>
                 <a href='#'>Pricing</a>
                 <a href='#'>Integrations</a>
-                <a href='#'><button className='nav-btn'>Start Trial</button></a>
+                <button className='nav-btn'>Start Trial</button>
         </div>
         </div>
         <div className='hr'></div>
