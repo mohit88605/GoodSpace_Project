@@ -11,14 +11,14 @@ const Navbar = () => {
             <img src={logo} alt='logo'/>
             </div>
         <div className='navbar-content'>
-                <a href='#'>Blogs</a>
-                <a href='#'>Features</a>
-                <a href='#'>Pricing</a>
-                <a href='#'>Integrations</a>
+                <li>Blogs</li>
+                <li>Features</li>
+                <li>Pricing</li>
+                <li>Integrations</li>
                 <button className='nav-btn'>Start Trial</button>
         </div>
         <div className='hidden'>
-           <img src={navlogo}></img>
+           <img src={navlogo} alt=''></img>
         </div>
         </div>
         <div className='hr'></div>

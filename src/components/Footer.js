@@ -34,10 +34,10 @@ const Footer = () => {
         <hr></hr>
         <div className='copyright'>
             <div className='navbar-content footer-content'>
-                <a href=''>Blogs</a>
-                <a href=''>Features</a>
-                <a href=''>Pricing</a>
-                <a href=''>Integrations</a>
+                <li>Blogs</li>
+                <li>Features</li>
+                <li>Pricing</li>
+                <li>Integrations</li>
             </div>
             <div className='copyright2 '>
                 <p>Copyright © 2024 • ExpenseBook</p>

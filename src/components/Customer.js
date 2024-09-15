@@ -52,10 +52,6 @@ const Customer = () => {
                     </div>
                 </div>
             </div>
-
-
-
-    
         </div>
     </div>
   )

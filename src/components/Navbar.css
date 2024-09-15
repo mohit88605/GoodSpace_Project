@@ -6,12 +6,13 @@
 }
 .navbar-content{
     width: Hug (911px)px;
-    height: Hug (44px)px;
+    height: Hug (50px)px;
     gap: 0px;
     margin-left: 500px;
+    display: flex;
     
 }
-.navbar-content a{
+.navbar-content li{
     list-style: none;
     text-decoration: none;
     font-size: 16px;
